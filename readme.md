@@ -7,7 +7,7 @@
 
 ---
 Proje örnek görsel:
-
+<img src="projegif.gif" alt="">
 
 
 ---
